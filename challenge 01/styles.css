@@ -20,8 +20,12 @@ p {
 
 a {
   color: #FFE600;
+ 
 }
 
 .accent-color {
   color: #FFE600;
 }
+
+.links a { padding: 5px;
+  background-color: #FFE600;}

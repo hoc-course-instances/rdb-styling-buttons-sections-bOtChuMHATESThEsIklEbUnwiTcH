@@ -1,0 +1,110 @@
+body {margin: 0%;}
+a{ text-decoration: none ;
+color: yellowgreen}
+
+a{
+font-family: 'Glory', sans-serif;
+
+}
+p{
+font-family: 'Glory', sans-serif;
+color: whitesmoke;
+}
+h1{
+font-family: 'Glory', sans-serif;
+color: whitesmoke;
+}
+h2{
+font-family: 'Glory', sans-serif;
+color: whitesmoke;
+}
+
+
+ 
+ a:visited {
+   text-decoration:yellow;
+ }
+ 
+ a:hover {
+   text-decoration: underline;
+   color: yellow;
+ }
+ 
+ a:active {
+   text-decoration: underline;
+ }
+
+a:focus {
+   opacity: 0%;
+}
+
+
+
+
+.p1 {
+   background-color: black;
+width: 100%;
+padding: 10% 0;
+}
+
+.p1-1 {
+   margin: 3%;
+}
+
+
+
+/*y i ve g 86 re 7uy6t g*/
+
+
+
+.p2 {background-color:rgb(22, 22, 22);
+padding: 5% 0;}
+
+.p2-1 {
+   margin: 3%;
+}
+
+.p2-1 img {
+width: 100%;
+}
+
+.p2-1 a {
+   display: inline;
+}
+
+
+
+
+
+/* 7yt57t  t5e87  e8 7 tgh8yh 8ydrh 8y*/
+
+
+
+
+
+.p3 {
+padding: 5% 0;
+background-color:rgb(42, 42, 42);
+}
+
+.p3-1 {
+justify-content: center;
+display: flex;
+flex-direction: column;
+justify-content: left;
+margin: 3%;
+}
+
+.p3-2{
+   display: flex;
+}
+
+.b {
+   background-color: #6e6e6e;
+   color: white;
+   padding: 15px 32px;
+   text-align: center;
+   display: inline-block;
+   margin: 0 3%;
+   border-radius: 30px ;
+ }
